@@ -39,7 +39,7 @@ export const projectData = [
 
   {
     name: `Star War API`,
-    description: `Display REST API data using react-select for a dropdown menu and searchable options also using P5.js for a starfield background.`,
+    description: `Display REST API data using react-select for a dropdown menu and searchable combo also using P5.js for a starfield background.`,
     demo: 'https://starwar-api.herokuapp.com/',
     github: 'https://github.com/juneidea/starwar',
     tech: ['React-select', 'P5.js', 'CSS'],
