@@ -36,6 +36,16 @@ export const projectData = [
     image: 'coldStack.png'
   },
 
+
+  {
+    name: `Star War API`,
+    description: `Import REST api and display the data using react-select for a dropdown menu and searchable options also using P5.js for a starfield background`,
+    demo: 'https://starwar-api.herokuapp.com/',
+    github: 'https://github.com/juneidea/starwar',
+    tech: ['React-select', 'P5.js', 'CSS'],
+    image: 'starWar.png'
+  },
+
   {
     name: `Guessing Game`,
     description: `Intro project at Fullstack Academy to teach DOM manipulation, events, and object-oriented programming. I added hints, CSS gradient.`,
